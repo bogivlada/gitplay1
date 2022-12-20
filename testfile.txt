@@ -2,3 +2,4 @@ Test
 This is line 2
 And line 3
 Added line 4 from Git
+Line 5 added locally
